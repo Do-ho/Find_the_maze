@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\user\desktop\maze_project_소스코드\team_project\team_project\function.h(12): warning C4091: 'typedef ': 변수를 선언하지 않으면 'location' 왼쪽은 무시됩니다.
+c:\users\user\desktop\maze_project_소스코드\team_project\team_project\function.h(125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 'strcpy' 선언을 참조하십시오.
+c:\users\user\desktop\maze_project_소스코드\team_project\team_project\function.h(127): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+c:\users\user\desktop\maze_project_소스코드\team_project\team_project\function.h(131): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 'strtok' 선언을 참조하십시오.
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): warning C4996: 'std::copy::_Unchecked_iterators::_Deprecate': Call to 'std::copy' with parameters that may be unsafe - this call relies on the caller to check that the passed values are correct. To disable this warning, use -D_SCL_SECURE_NO_WARNINGS. See documentation on how to use Visual C++ 'Checked Iterators'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(2372): note: 'std::copy::_Unchecked_iterators::_Deprecate' 선언을 참조하십시오.
+  c:\users\user\desktop\maze_project_소스코드\team_project\team_project\function.h(36): note: 컴파일 중인 함수 템플릿 인스턴스화 '_OutIt *std::copy<std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,char*>(_InIt,_InIt,_OutIt)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _OutIt=char *,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>
+          ]
+  Team_Project.vcxproj -> C:\Users\user\Desktop\maze_project_소스코드\Team_Project\Debug\Team_Project.exe
+  Team_Project.vcxproj -> C:\Users\user\Desktop\maze_project_소스코드\Team_Project\Debug\Team_Project.pdb (Full PDB)
